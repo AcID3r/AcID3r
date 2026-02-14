@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AcID3r/AcID3r/main/madhavvv.png" width="800"/>
+</p>
+
 <h1 align="center">Madhav N Joshi</h1>
 <h3 align="center">Artificial Intelligence & Machine Learning Engineer</h3>
 
