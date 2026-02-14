@@ -48,16 +48,41 @@ const Madhav = {
     "LLM Engineering",
     "RAG Systems",
     "Computer Vision",
-    "Autonomous Robotics"
+    "Autonomous Robotics",
+    "Quantum Computing"
   ],
 
-  ml_stack: ["PyTorch", "TensorFlow", "Scikit-Learn", "LightGBM"],
-  llm_stack: ["LangChain", "RAG", "Prompt Engineering"],
-  robotics_stack: ["ROS", "OpenCV", "MediaPipe", "NVIDIA Jetson"],
-  quantum_stack: ["Qiskit", "Cirq"],
+  ml_stack: [
+    "PyTorch",
+    "TensorFlow",
+    "Keras",
+    "Scikit-Learn",
+    "CUDA"
+  ],
+
+  llm_stack: [
+    "LangChain",
+    "LangGraph",
+    "RAG",
+    "HuggingFace",
+    "Prompt Engineering",
+    "Ollama"
+  ],
+
+  robotics_stack: [
+    "ROS",
+    "Gazebo",
+    "OpenCV",
+    "MediaPipe"
+  ],
+
+  quantum_stack: [
+    "Qiskit"
+  ],
 
   approach: "Research-driven development with production-oriented execution"
 };
+
 ```
 
 ---
