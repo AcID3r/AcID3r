@@ -5,7 +5,7 @@
 <br/>
 
 # MADHAV N JOSHI
-### AI/ML Engineer • Robotics Developer • Intelligent Systems Architect
+### A.I & M.L | Robotics | Quantum Computing (QC) | Gesturing Dreams with GANs & Diffusion Models | Building Smarter Technology with Smarter Minds!!!
 
 Creating AI that feels like tomorrow, today — intelligent at its core, limitless in its impact.
 
