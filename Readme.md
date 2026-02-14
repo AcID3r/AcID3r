@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Madhav N Joshi</h1>
+<h1 align="center">Madhav N Joshi</h1>
 <h3 align="center">Artificial Intelligence & Machine Learning Engineer</h3>
 
 <p align="center">
