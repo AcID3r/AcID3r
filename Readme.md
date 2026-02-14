@@ -11,20 +11,19 @@ Creating AI that feels like tomorrow, today — intelligent at its core, limitle
 
 <br/>
 
-<p align="center">
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-madhavvv.in-22c55e?style=for-the-badge&logo=safari&logoColor=white)](https://www.madhavvv.in)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Madhav_Joshi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/madhavjoshi-ai)
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Website-22c55e?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.madhavvv.in/)
+
 [![Email](https://img.shields.io/badge/Email-madhav.joshi7373@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:madhav.joshi7373@gmail.com)
 
-</p>
 
-<br/>
----
+</div>
 
-# 🧠 OVERVIEW
 
-Engineering intelligent systems across **AI, Robotics, and emerging Quantum paradigms—turning research-driven ideas** into scalable, production-ready innovations.
+# OVERVIEW
+
+Engineering intelligent systems across **Artificial Intelligence, Robotics, and emerging Quantum paradigms** — transforming research-driven concepts into scalable, real-world deployments.
 
 - 🤖 AI & Deep Learning Systems  
 - 🧠 LLM Engineering & RAG Pipelines  
