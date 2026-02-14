@@ -1,37 +1,110 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/AcID3r/AcID3r/main/madhavvv%20(1).jpg" width="250" height="250" style="border-radius:50%;" />
-</p>
+<div align="center">
 
-<h1 align="center">Madhav N Joshi</h1>
-<h3 align="center">Artificial Intelligence & Machine Learning Engineer</h3>
+<img src="https://raw.githubusercontent.com/AcID3r/AcID3r/main/madhavvv%20(1).jpg" width="200" style="border-radius:50%;" />
 
-<p align="center">
+<br/>
+
+# MADHAV N JOSHI
+### AI/ML Engineer • Robotics Developer • Intelligent Systems Architect
+
 Creating AI that feels like tomorrow, today — intelligent at its core, limitless in its impact.
-</p>
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Madhav_Joshi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/madhavjoshi-ai)
+[![Email](https://img.shields.io/badge/Email-madhav.joshi7373@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:madhav.joshi7373@gmail.com)
+
+</div>
 
 ---
 
-## 🌌 About Me
+# 🧠 OVERVIEW
 
-I’m a passionate **AI/ML Engineer and Tech Explorer** diving deep into:
+Engineering intelligent systems across **Artificial Intelligence, Robotics, and emerging Quantum paradigms** — transforming research-driven concepts into scalable, real-world deployments.
 
-- 🤖 Artificial Intelligence  
-- 🧠 Machine Learning & Deep Learning  
-- 🔬 Robotics  
-- ⚛️ Quantum Computing  
+- 🤖 AI & Deep Learning Systems  
+- 🧠 LLM Engineering & RAG Pipelines  
+- 🔬 Robotics & Computer Vision  
+- ⚛️ Quantum Computing Foundations  
 
-From building neural networks to designing intuitive intelligent systems, I strive to bridge the gap between cutting-edge research and real-world impact.
+**Philosophy:** *Learn by Doing.*
 
-💡 Philosophy: *Learn by Doing.*
-
-- 🖥 Built a personal AI/ML Home Server  
-- 📚 Studied Game Theory (IIM)  
-- 🎓 Advanced DS/ML at IIT Guwahati  
-- 🏆 Winter Internship at IIT Kanpur  
+- 🖥 Built Personal AI/ML Home Server  
+- 🎓 Advanced DS/ML – IIT Guwahati  
+- 🏆 Winter Internship – IIT Kanpur  
+- 📚 Game Theory – IIM  
 
 ---
 
-## 🛠 Skills & Technologies
+# ⚙️ TECHNICAL PROFILE
+
+```javascript
+const Madhav = {
+  core_focus: [
+    "Deep Learning",
+    "LLM Engineering",
+    "RAG Systems",
+    "Computer Vision",
+    "Autonomous Robotics"
+  ],
+
+  ml_stack: ["PyTorch", "TensorFlow", "Scikit-Learn", "LightGBM"],
+  llm_stack: ["LangChain", "RAG", "Prompt Engineering"],
+  robotics_stack: ["ROS", "OpenCV", "MediaPipe", "NVIDIA Jetson"],
+  quantum_stack: ["Qiskit", "Cirq"],
+
+  approach: "Research-driven development with production-oriented execution"
+};
+```
+
+---
+
+# 🚀 FEATURED SYSTEMS
+
+## 📈 Live Stock Market Monitor
+Real-time stock monitoring system sending automated alerts via Discord bot.
+
+**Stack:** Python • Finnhub API • Discord API  
+**Impact:** Automated price tracking + notification system
+
+---
+
+## 🎮 AI Gesture-Controlled Gaming System
+Real-time hand gesture recognition system controlling Subway Surfers.
+
+**Stack:** OpenCV • MediaPipe • PyAutoGUI  
+**Focus:** Real-time computer vision & interaction
+
+---
+
+## 🫁 Lung Cancer Detection (CNN)
+Deep Learning model trained on CT scan datasets.
+
+**Stack:** TensorFlow • CNN • Medical Imaging  
+**Goal:** AI-assisted healthcare diagnostics
+
+---
+
+## ❤️ Heart Disease Prediction
+Classification model using Logistic Regression & Decision Trees.
+
+**Stack:** Python • Scikit-Learn  
+
+---
+
+## 🩸 Diabetes Prediction (Model Comparison)
+Compared ML models — LightGBM achieved highest performance.
+
+**Models:** Logistic Regression • Random Forest • XGBoost • LightGBM • SVM  
+
+---
+
+## ✈️ Airline Customer Segmentation
+Customer classification using K-Means & Hierarchical clustering.
+
+---
+
+# 🛠 SKILLS & TECHNOLOGIES
 
 ### 🧠 AI / ML
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -40,118 +113,63 @@ From building neural networks to designing intuitive intelligent systems, I stri
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![LightGBM](https://img.shields.io/badge/LightGBM-02569B?style=for-the-badge)
 
-### 🔬 Deep Learning
-CNN • RNN • GAN • Quant ML • Medical Imaging  
+### 🤖 Robotics & Vision
+OpenCV • MediaPipe • ROS • NVIDIA Jetson  
 
 ### 🌐 Development
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-UI/UX • APIs • Discord Bots  
+React • Git • APIs • Discord Bots  
 
-### 🤖 Robotics & Vision
-OpenCV • MediaPipe • PyAutoGUI  
+### ⚛️ Quantum
+Qiskit • Cirq  
 
 ---
 
-# 🚀 Featured Projects
+# 🏅 CERTIFICATIONS
 
-## 📈 Live Stock Market Monitor
-Automated stock tracking system monitoring real-time prices and sending alerts via Discord bot.
-
-**Tech:** Python • Finnhub API • Discord API  
-
----
-
-## ❤️ Heart Disease Prediction System
-ML model using Logistic Regression & Decision Trees for early detection.
-
-**Tech:** Python • Scikit-Learn  
+- Oracle AI Foundations Associate  
+- Google Cloud – Generative AI Series  
+- IIT Kanpur Winter Internship (ML/DS)  
+- IBM Prompt Engineering  
+- Goldman Sachs Simulation  
+- Siemens Commercial PM Simulation  
+- University of Michigan – Computational Thinking  
+- One Million Prompters Challenge (Dubai AI)  
+- Robo AI Industrial Training  
 
 ---
 
-## 🫁 Lung Cancer Detection (CNN)
-AI model trained on CT scan images using Convolutional Neural Networks.
+# 💼 EXPERIENCE
 
-**Tech:** TensorFlow • CNN • Medical Imaging  
-
----
-
-## 🩸 Diabetes Detection System
-Compared multiple ML algorithms with **LightGBM achieving best performance**.
-
-**Models Used:**  
-Logistic Regression • Random Forest • XGBoost • LightGBM • SVM  
-
----
-
-## ✈️ Airline Customer Segmentation
-K-Means & Hierarchical clustering to classify loyal vs disloyal passengers.
-
----
-
-## 🎮 AI Hand Gesture Gaming Controller
-Real-time gesture recognition system controlling games like Subway Surfers.
-
-**Tech:** OpenCV • MediaPipe • PyAutoGUI  
-
----
-
-# 🏅 Certifications & Credentials
-
-- 🎖 Oracle AI Foundations Associate  
-- 🎖 Google Cloud – Generative AI Series  
-- 🎖 IIT Kanpur Winter Internship (ML/DS)  
-- 🎖 IBM Prompt Engineering  
-- 🎖 Goldman Sachs Operations Simulation  
-- 🎖 Siemens Commercial PM Simulation  
-- 🎖 University of Michigan – Computational Thinking  
-- 🎖 One Million Prompters Challenge (Dubai AI)  
-- 🎖 Robo AI Industrial Training  
-
----
-
-# 🧠 Research & Innovation
-
-📚 Active in AI/ML Research  
-📜 Patents in progress (AI & Distributed Systems)  
-🔍 Publication list available on:
-
-- Google Scholar  
-- ResearchGate  
-
----
-
-# 💼 Work Experience
-
-### 🏢 Machine Learning & Data Science Intern  
-**Upflairs, IIT Kanpur (TechKriti'25)**  
+## Machine Learning & Data Science Intern  
+**Upflairs – IIT Kanpur (TechKriti'25)**  
 *Dec 2024 – Jan 2025*
 
-- Built real-world ML models (Spam Detection, Segmentation, Predictive Models)
-- Received Letter of Recommendation (LOR)
-- Worked on practical deployment use-cases
+- Built real-world ML models (Spam Detection, Predictive Systems, Segmentation)
+- Worked on deployment-oriented ML solutions
+- Received Letter of Recommendation
 
 ---
 
-# 📊 GitHub Analytics
+# 📊 GITHUB ANALYTICS
 
-![Stats](https://github-readme-stats.vercel.app/api?username=AcID3r&show_icons=true&theme=tokyonight)
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=AcID3r&theme=tokyonight)
-![Graph](https://github-readme-activity-graph.vercel.app/graph?username=AcID3r&theme=tokyo-night)
-
----
-
-# 🌍 Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/madhavjoshi-ai)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail)](mailto:madhav.joshi7373@gmail.com)
+![Stats](https://github-readme-stats.vercel.app/api?username=AcID3r&show_icons=true&theme=tokyonight&hide_border=true)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=AcID3r&theme=tokyonight&hide_border=true)
+![Graph](https://github-readme-activity-graph.vercel.app/graph?username=AcID3r&theme=tokyo-night&hide_border=true)
 
 ---
 
-<p align="center">
-🌌 "From Math to Magic — AI/ML Engineer transforming complex algorithms into intelligent, human-centered experiences."
-</p>
+# 🌍 RESEARCH & INNOVATION
 
-<p align="center">
+📚 Active in AI/ML research  
+📜 Patents in progress (AI & Distributed Systems)  
+🔍 Publications available upon request  
+
+---
+
+<div align="center">
+
+### 🌌 "From Math to Magic — Transforming Algorithms into Intelligent Experiences."
+
 BUILT BY MADHAV FOR THE UNIVERSE 🚀
-</p>
+
+</div>
