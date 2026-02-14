@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AcID3r/AcID3r/main/madhavvv.png" width="800"/>
+  <img src="https://raw.githubusercontent.com/AcID3r/AcID3r/main/madhavvv.png" width="250" height="250" style="border-radius:50%;" />
 </p>
 
 <h1 align="center">Madhav N Joshi</h1>
