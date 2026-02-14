@@ -39,7 +39,7 @@ Engineering intelligent systems across **Artificial Intelligence, Robotics, and 
 
 ---
 
-# ⚙️ TECHNICAL PROFILE
+# TECHNICAL PROFILE
 
 ```javascript
 const Madhav = {
@@ -62,7 +62,7 @@ const Madhav = {
 
 ---
 
-# 🚀 FEATURED SYSTEMS
+# FEATURED SYSTEMS
 
 ## 📈 Live Stock Market Monitor
 Real-time stock monitoring system sending automated alerts via Discord bot.
@@ -107,7 +107,7 @@ Customer classification using K-Means & Hierarchical clustering.
 
 ---
 
-# 🛠 TECHNICAL STACK
+# TECHNICAL STACK
 
 <div align="center">
 
@@ -166,7 +166,7 @@ Customer classification using K-Means & Hierarchical clustering.
 </div>
 
 
-# 🏅 CERTIFICATIONS
+# CERTIFICATIONS
 
 - Oracle AI Foundations Associate  
 - Google Cloud – Generative AI Series  
@@ -180,7 +180,7 @@ Customer classification using K-Means & Hierarchical clustering.
 
 ---
 
-# 💼 EXPERIENCE
+# EXPERIENCE
 
 ## Machine Learning & Data Science Intern  
 **Upflairs – IIT Kanpur (TechKriti'25)**  
@@ -200,7 +200,7 @@ Customer classification using K-Means & Hierarchical clustering.
 
 ---
 
-# 🌍 RESEARCH & INNOVATION
+# RESEARCH & INNOVATION
 
 📚 Active in AI/ML research  
 📜 Patents in progress (AI & Distributed Systems)  
