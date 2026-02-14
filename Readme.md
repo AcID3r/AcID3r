@@ -1,14 +1,7 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AcID3r/AcID3r/main/madhavvv.png"
-       alt="Madhav N Joshi"
-       width="220"
-       height="220"
-       style="
-         border-radius:50%;
-         object-fit:cover;
-         object-position:center top;
-       " />
+  <img src="https://raw.githubusercontent.com/AcID3r/AcID3r/main/madhavvv%20(1).jpg" width="250" height="250" style="border-radius:50%;" />
 </p>
+
 <h1 align="center">Madhav N Joshi</h1>
 <h3 align="center">Artificial Intelligence & Machine Learning Engineer</h3>
 
