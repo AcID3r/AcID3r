@@ -6,7 +6,7 @@
 
 <table>
 <tr>
-<td valign="top"><img src="./madhav-ascii.svg" width="370" alt="Madhav N Joshi ASCII portrait" /></td>
+<td valign="top"><img src="./madhav-ascii.svg" width="450" alt="Madhav N Joshi ASCII portrait" /></td>
 <td valign="top"><img src="./info-card.svg" width="490" alt="Madhav N Joshi technical info card" /></td>
 </tr>
 </table>
