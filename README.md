@@ -1,6 +1,5 @@
 <div align="center">
 
-<img src="./source.png" width="200" style="border-radius:50%;" />
 
 <br/>
 <br/>
