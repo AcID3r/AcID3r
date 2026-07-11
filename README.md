@@ -3,21 +3,6 @@
 <img src="./source.png" width="200" style="border-radius:50%;" />
 
 <br/>
-
-# MADHAV N JOSHI
-### A.I & M.L | Robotics | Quantum Computing (QC) | Gesturing Dreams with GANs & Diffusion Models | Building Smarter Technology with Smarter Minds!!!
-
-Creating AI that feels like tomorrow, today — intelligent at its core, limitless in its impact.
-
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Madhav_Joshi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/madhavjoshi-ai)
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Website-22c55e?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.madhavvv.in/)
-
-[![Email](https://img.shields.io/badge/Email-madhav.joshi7373@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:madhav.joshi7373@gmail.com)
-
-<br/>
 <br/>
 
 <table>
@@ -28,23 +13,6 @@ Creating AI that feels like tomorrow, today — intelligent at its core, limitle
 </table>
 
 </div>
-
-
-# OVERVIEW
-
-Engineering intelligent systems across **Artificial Intelligence, Robotics, and emerging Quantum paradigms** — transforming research-driven concepts into scalable, real-world deployments.
-
-- 🤖 AI & Deep Learning Systems  
-- 🧠 LLM Engineering & RAG Pipelines  
-- 🔬 Robotics & Computer Vision  
-- ⚛️ Quantum Computing Foundations  
-
-**Philosophy:** *Learn by Doing.*
-
-- 🖥 Built Personal AI/ML Home Server  
-- 🎓 Advanced DS/ML – IIT Guwahati  
-- 🏆 Winter Internship – IIT Kanpur  
-- 📚 Game Theory – IIM  
 
 ---
 
@@ -93,51 +61,6 @@ const Madhav = {
 };
 
 ```
-
----
-
-# FEATURED SYSTEMS
-
-## 📈 Live Stock Market Monitor
-Real-time stock monitoring system sending automated alerts via Discord bot.
-
-**Stack:** Python • Finnhub API • Discord API  
-**Impact:** Automated price tracking + notification system
-
----
-
-## 🎮 AI Gesture-Controlled Gaming System
-Real-time hand gesture recognition system controlling Subway Surfers.
-
-**Stack:** OpenCV • MediaPipe • PyAutoGUI  
-**Focus:** Real-time computer vision & interaction
-
----
-
-## 🫁 Lung Cancer Detection (CNN)
-Deep Learning model trained on CT scan datasets.
-
-**Stack:** TensorFlow • CNN • Medical Imaging  
-**Goal:** AI-assisted healthcare diagnostics
-
----
-
-## ❤️ Heart Disease Prediction
-Classification model using Logistic Regression & Decision Trees.
-
-**Stack:** Python • Scikit-Learn  
-
----
-
-## 🩸 Diabetes Prediction (Model Comparison)
-Compared ML models — LightGBM achieved highest performance.
-
-**Models:** Logistic Regression • Random Forest • XGBoost • LightGBM • SVM  
-
----
-
-## ✈️ Airline Customer Segmentation
-Customer classification using K-Means & Hierarchical clustering.
 
 ---
 
@@ -196,56 +119,5 @@ Customer classification using K-Means & Hierarchical clustering.
 ### Quantum Computing
 
 ![Qiskit](https://img.shields.io/badge/Qiskit-6929C4?style=for-the-badge&logo=qiskit&logoColor=white)
-
-</div>
-
-
-# CERTIFICATIONS
-
-- Oracle AI Foundations Associate  
-- Google Cloud – Generative AI Series  
-- IIT Kanpur Winter Internship (ML/DS)  
-- IBM Prompt Engineering  
-- Goldman Sachs Simulation  
-- Siemens Commercial PM Simulation  
-- University of Michigan – Computational Thinking  
-- One Million Prompters Challenge (Dubai AI)  
-- Robo AI Industrial Training  
-
----
-
-# EXPERIENCE
-
-## Machine Learning & Data Science Intern  
-**Upflairs – IIT Kanpur (TechKriti'25)**  
-*Dec 2024 – Jan 2025*
-
-- Built real-world ML models (Spam Detection, Predictive Systems, Segmentation)
-- Worked on deployment-oriented ML solutions
-- Received Letter of Recommendation
-
----
-
-# 📊 GITHUB ANALYTICS
-
-![Stats](https://github-readme-stats.vercel.app/api?username=AcID3r&show_icons=true&theme=tokyonight&hide_border=true)
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=AcID3r&theme=tokyonight&hide_border=true)
-![Graph](https://github-readme-activity-graph.vercel.app/graph?username=AcID3r&theme=tokyo-night&hide_border=true)
-
----
-
-# RESEARCH & INNOVATION
-
-📚 Active in AI/ML research  
-📜 Patents in progress (AI & Distributed Systems)  
-🔍 Publications available upon request  
-
----
-
-<div align="center">
-
-### 🌌 "From Math to Magic — Transforming Algorithms into Intelligent Experiences."
-
-BUILT BY MADHAV FOR THE UNIVERSE 🚀
 
 </div>
