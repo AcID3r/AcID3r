@@ -17,6 +17,15 @@ Creating AI that feels like tomorrow, today — intelligent at its core, limitle
 
 [![Email](https://img.shields.io/badge/Email-madhav.joshi7373@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:madhav.joshi7373@gmail.com)
 
+<br/>
+<br/>
+
+<table>
+<tr>
+<td valign="top"><img src="./madhav-ascii.svg" width="370" alt="Madhav N Joshi ASCII portrait" /></td>
+<td valign="top"><img src="./info-card.svg" width="490" alt="Madhav N Joshi technical info card" /></td>
+</tr>
+</table>
 
 </div>
 
