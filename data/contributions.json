@@ -1,22 +1,22 @@
 {
   "username": "AcID3r",
-  "generated_at": "2026-08-21T07:10:08Z",
+  "generated_at": "2026-08-22T07:02:08Z",
   "range": {
     "start": "2025-08-17",
+    "end": "2026-08-22"
+  },
+  "total_contributions": 239,
+  "active_days": 76,
+  "avg_per_active_day": 3.1,
+  "current_streak": {
+    "length": 42,
+    "start": "2026-07-11",
     "end": "2026-08-21"
   },
-  "total_contributions": 238,
-  "active_days": 75,
-  "avg_per_active_day": 3.2,
-  "current_streak": {
-    "length": 41,
-    "start": "2026-07-11",
-    "end": "2026-08-20"
-  },
   "longest_streak": {
-    "length": 41,
+    "length": 42,
     "start": "2026-07-11",
-    "end": "2026-08-20"
+    "end": "2026-08-21"
   },
   "best_day": {
     "date": "2026-08-15",
@@ -73,7 +73,7 @@
     },
     {
       "month": "2026-08",
-      "total": 72
+      "total": 73
     }
   ],
   "days": [
@@ -1555,6 +1555,10 @@
     },
     {
       "date": "2026-08-21",
+      "count": 1
+    },
+    {
+      "date": "2026-08-22",
       "count": 0
     }
   ]
