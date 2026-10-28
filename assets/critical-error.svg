@@ -1,0 +1,82 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 210" width="520" height="210">
+
+    <defs>
+      <linearGradient id="winxp-title-grad-winxp-error-madhav-error" x1="0%" y1="0%" x2="100%" y2="0%">
+        <stop offset="0%" stop-color="#0058ee" />
+        <stop offset="25%" stop-color="#2989f5" />
+        <stop offset="85%" stop-color="#0058ee" />
+        <stop offset="100%" stop-color="#2989f5" />
+      </linearGradient>
+      <linearGradient id="winxp-btn-grad-winxp-error-madhav-error" x1="0%" y1="0%" x2="0%" y2="100%">
+        <stop offset="0%" stop-color="#3c8cf5" />
+        <stop offset="40%" stop-color="#2464df" />
+        <stop offset="100%" stop-color="#1446b8" />
+      </linearGradient>
+      <linearGradient id="winxp-close-grad-winxp-error-madhav-error" x1="0%" y1="0%" x2="0%" y2="100%">
+        <stop offset="0%" stop-color="#e96c56" />
+        <stop offset="40%" stop-color="#d63f24" />
+        <stop offset="100%" stop-color="#b8240c" />
+      </linearGradient>
+      <filter id="winxp-shadow-winxp-error-madhav-error" x="-4%" y="-4%" width="108%" height="112%">
+        <feDropShadow dx="3" dy="4" stdDeviation="4" flood-color="#000000" flood-opacity="0.35" />
+      </filter>
+    </defs>
+
+    <!-- Outer Window Frame -->
+    <rect x="2" y="2" width="516" height="206" rx="6" ry="6" fill="#ece9d8" stroke="#0054e3" stroke-width="3" filter="url(#winxp-shadow-winxp-error-madhav-error)" />
+
+    <!-- Title Bar Header -->
+    <path d="M 4 8 Q 4 4 8 4 L 512 4 Q 516 4 516 8 L 516 30 L 4 30 Z" fill="url(#winxp-title-grad-winxp-error-madhav-error)" />
+
+    <!-- Title Bar Inner Highlight (Classic XP Gel Gloss) -->
+    <path d="M 4 8 Q 4 4 8 4 L 512 4 Q 516 4 516 8 L 516 16 L 4 16 Z" fill="#ffffff" fill-opacity="0.25" />
+
+    <!-- Window Icon -->
+    <circle cx="16" cy="17" r="6" fill="#f59e0b" /><text x="13.5" y="20.5" font-family="'Segoe UI', Tahoma, sans-serif" font-size="9" font-weight="bold" fill="#ffffff">XP</text>
+
+    <!-- Window Title -->
+    <text x="32" y="20" font-family="'Trebuchet MS', 'Segoe UI', Tahoma, sans-serif" font-size="12" font-weight="bold" fill="#ffffff" style="text-shadow: 1px 1px 1px #001a66;">
+      Curiosity.exe - Critical Error
+    </text>
+
+    <!-- Title Bar Buttons (Minimize, Maximize, Close) -->
+    <g transform="translate(446, 7)">
+      <!-- Minimize Button -->
+      <rect x="0" y="0" width="19" height="17" rx="3" fill="url(#winxp-btn-grad-winxp-error-madhav-error)" stroke="#ffffff" stroke-width="1" stroke-opacity="0.7" />
+      <line x1="4" y1="12" x2="14" y2="12" stroke="#ffffff" stroke-width="2" stroke-linecap="round" />
+
+      <!-- Maximize Button -->
+      <rect x="23" y="0" width="19" height="17" rx="3" fill="url(#winxp-btn-grad-winxp-error-madhav-error)" stroke="#ffffff" stroke-width="1" stroke-opacity="0.7" />
+      <rect x="27" y="4" width="10" height="9" fill="none" stroke="#ffffff" stroke-width="1.8" />
+      <line x1="27" y1="6" x2="37" y2="6" stroke="#ffffff" stroke-width="2" />
+
+      <!-- Close Button (Red) -->
+      <rect x="46" y="0" width="21" height="17" rx="3" fill="url(#winxp-close-grad-winxp-error-madhav-error)" stroke="#ffffff" stroke-width="1" stroke-opacity="0.8" />
+      <path d="M 52 5 L 61 12 M 61 5 L 52 12" stroke="#ffffff" stroke-width="2" stroke-linecap="round" />
+    </g>
+
+
+      <!-- Dialog Body -->
+      <g transform="translate(16, 46)">
+        <g transform="translate(10, 15)">
+          <circle cx="20" cy="20" r="18" fill="#dc2626" stroke="#991b1b" stroke-width="2" />
+          <path d="M 12 12 L 28 28 M 28 12 L 12 28" stroke="#ffffff" stroke-width="4.5" stroke-linecap="round" />
+        </g>
+
+        <g transform="translate(64, 14)">
+          <text y="0" font-family="'Segoe UI', Tahoma, sans-serif" font-size="11.5" fill="#0f172a">Research loop detected. The engineer keeps</text><text y="16" font-family="'Segoe UI', Tahoma, sans-serif" font-size="11.5" fill="#0f172a">turning papers into working systems. Continue</text><text y="32" font-family="'Segoe UI', Tahoma, sans-serif" font-size="11.5" fill="#0f172a">building?</text>
+          <text y="62" font-family="'Courier New', Courier, monospace" font-size="10.5" font-weight="bold" fill="#64748b">
+            0x00000001 : CURIOSITY_OVERFLOW
+          </text>
+        </g>
+
+        <g transform="translate(165, 114)">
+          <rect x="0" y="0" width="75" height="24" rx="3" fill="#ece9d8" stroke="#0058ee" stroke-width="1.5" />
+          <rect x="2" y="2" width="71" height="20" fill="none" stroke="#000000" stroke-dasharray="1,1" />
+          <text x="28" y="16" font-family="'Segoe UI', Tahoma, sans-serif" font-size="11" font-weight="bold" fill="#000000">Build</text>
+
+          <rect x="90" y="0" width="75" height="24" rx="3" fill="#ece9d8" stroke="#7f9db9" stroke-width="1.5" />
+          <text x="108" y="16" font-family="'Segoe UI', Tahoma, sans-serif" font-size="11" fill="#000000">Debug</text>
+        </g>
+      </g>
+    </svg>

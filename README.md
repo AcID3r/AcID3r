@@ -1,65 +1,36 @@
 <div align="center">
 
+<img src="./assets/acid3r-pixel.svg" width="900" alt="AcID3r in lime block lettering" />
+
+<picture>
+  <source media="(max-width: 600px)" srcset="./assets/surveillance-header-mobile.svg" />
+  <img src="./assets/surveillance-header.svg" width="900" alt="Madhav Joshi — AI/ML engineer building deep learning systems, multimodal agents and autonomous robotics. Surveillance-style terminal with Madhav's portrait." />
+</picture>
 
 <br/>
-<br/>
 
-<table>
-<tr>
-<td valign="top"><img src="./madhav-ascii.svg" width="450" alt="Madhav N Joshi ASCII portrait" /></td>
-<td valign="top"><img src="./info-card.svg" width="490" alt="Madhav N Joshi technical info card" /></td>
-</tr>
-</table>
+<picture>
+  <source media="(max-width: 600px)" srcset="./assets/aura-showcase-mobile.svg" />
+  <img src="./assets/aura-showcase.svg" width="900" alt="Building intelligent systems. From pixels to perception. Always learning. Craft matters." />
+</picture>
+
+<br/><br/>
+
+<a href="https://github.com/AcID3r"><img src="./assets/social-github.svg" width="140" height="46" alt="GitHub" /></a>
+<a href="mailto:madhav.joshi7373@gmail.com"><img src="./assets/social-gmail.svg" width="140" height="46" alt="Email Madhav" /></a>
+<a href="https://www.linkedin.com/in/madhav-ai/"><img src="./assets/social-linkedin.svg" width="140" height="46" alt="LinkedIn" /></a>
+<a href="https://madhavvv.in/"><img src="./assets/social-portfolio.svg" width="140" height="46" alt="Portfolio" /></a>
 
 </div>
 
 ---
 
-# TECHNICAL PROFILE
+## RESEARCH & BUILDS
 
-```javascript
-const Madhav = {
-  core_focus: [
-    "Deep Learning",
-    "LLM Engineering",
-    "RAG Systems",
-    "Computer Vision",
-    "Autonomous Robotics",
-    "Quantum Computing"
-  ],
-
-  ml_stack: [
-    "PyTorch",
-    "TensorFlow",
-    "Keras",
-    "Scikit-Learn",
-    "CUDA"
-  ],
-
-  llm_stack: [
-    "LangChain",
-    "LangGraph",
-    "RAG",
-    "HuggingFace",
-    "Prompt Engineering",
-    "Ollama"
-  ],
-
-  robotics_stack: [
-    "ROS",
-    "Gazebo",
-    "OpenCV",
-    "MediaPipe"
-  ],
-
-  quantum_stack: [
-    "Qiskit"
-  ],
-
-  approach: "Research-driven development with production-oriented execution"
-};
-
-```
+<picture>
+  <source media="(max-width: 600px)" srcset="./assets/research-projects-mobile.svg" />
+  <img src="./assets/research-projects.svg" width="900" alt="MedoraAI: explainable multi-organ clinical decision support using RAD-DINO, Grad-CAM and PyTorch. NOVA-X: six-agent multimodal operations with LangGraph and hybrid Qdrant RAG. AEGIS-R: vision-language robotics with ROS2, YOLOv8, SAM and spatial memory." />
+</picture>
 
 ---
 
@@ -119,5 +90,33 @@ const Madhav = {
 
 ![Qiskit](https://img.shields.io/badge/Qiskit-6929C4?style=for-the-badge&logo=qiskit&logoColor=white)
 
-<img src="./contrib-heatmap.svg" width="860" alt="Avi's GitHub contribution graph — auto-refreshed daily" />
+<img src="./contrib-heatmap.svg" width="860" alt="Madhav's GitHub contribution graph — auto-refreshed daily" />
+</div>
+
+---
+
+## CONTRIBUTION SNAKE
+
+<div align="center">
+  <img src="./assets/github-snake.svg" width="900" alt="Animated snake eating Madhav's GitHub contributions" />
+</div>
+
+---
+
+## GITHUB TROPHIES
+
+<div align="center">
+  <a href="https://github-profile-trophy.vercel.app/?username=AcID3r"><img src="./assets/github-trophies.svg" width="900" alt="GitHub profile trophies for AcID3r — cached from the live community service" /></a>
+</div>
+
+<div align="center">
+
+<br/>
+
+<img src="./assets/developer-quote.svg" width="900" alt="There are only two hard things in Computer Science: cache invalidation and naming things. — Phil Karlton" />
+
+<br/><br/>
+
+<img src="./assets/critical-error.svg" width="520" alt="Curiosity.exe — Critical Error: Research loop detected. The engineer keeps turning papers into working systems. Continue building?" />
+
 </div>

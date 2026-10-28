@@ -1,0 +1,37 @@
+<svg width="140" height="46" viewBox="0 0 130 44" preserveAspectRatio="xMidYMid meet" xmlns="http://www.w3.org/2000/svg">
+      <defs>
+
+    <linearGradient id="grad-pill-portfolio-2-2" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#ffffff"></stop>
+<stop offset="10%" stop-color="#111111"></stop>
+<stop offset="50%" stop-color="#eeeeee"></stop>
+<stop offset="60%" stop-color="#10B981"></stop>
+<stop offset="80%" stop-color="#111111"></stop>
+<stop offset="100%" stop-color="#555555"></stop>
+      <animateTransform attributeName="gradientTransform" type="rotate" from="0 0.5 0.5" to="360 0.5 0.5" dur="8s" repeatCount="indefinite" />
+    </linearGradient>
+
+      </defs>
+      <g>
+
+    <g id="pill-portfolio-2-2">
+      <!-- Outer rotating gradient border -->
+      <rect x="2" y="2" width="126" height="40" rx="20" ry="20" fill="none" stroke="url(#grad-pill-portfolio-2-2)" stroke-width="1.8" />
+
+      <!-- Dark container background with subtle glow -->
+      <rect x="3" y="3" width="124" height="38" rx="19" ry="19" fill="#0f241d" />
+
+      <!-- Inner highlight layer -->
+      <rect x="3" y="3" width="124" height="38" rx="19" ry="19" fill="rgba(255,255,255,0.03)" />
+
+      <!-- Icon & Text Content -->
+      <g transform="translate(16, 13) scale(1)">
+        <svg width="18" height="18" viewBox="0 0 18 18" fill="none">
+          <path fill="#10B981" d="M9 1.5a7.5 7.5 0 1 0 0 15 7.5 7.5 0 0 0 0-15zm-5.9 7h3.1c.1-1.3.4-2.5.8-3.6-1.8.8-3.2 2-3.9 3.6zm3.1 2H3.1c.7 1.6 2.1 2.8 3.9 3.6-.4-1.1-.7-2.3-.8-3.6zm1.8 0h2c-.1 1.2-.4 2.2-.8 3-.4-.8-.7-1.8-.8-3zm0-2h2c-.1-1.2-.4-2.2-.8-3-.4.8-.7 1.8-.8 3zm4.9-2h-3.1c-.1-1.3-.4-2.5-.8-3.6 1.8.8 3.2 2 3.9 3.6zm-3.1 4h3.1c-.7 1.6-2.1 2.8-3.9 3.6.4-1.1.7-2.3.8-3.6z"/>
+        </svg>
+      </g>
+      <text x="42" y="27" text-anchor="start" fill="#f5f5f5" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="500" letter-spacing="0.2">Portfolio</text>
+    </g>
+
+      </g>
+    </svg>

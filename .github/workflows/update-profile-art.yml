@@ -32,8 +32,11 @@ jobs:
       - name: Render contribution graph SVG (boxes)
         run: python scripts/render_heatmap_svg.py
 
+      - name: Cache GitHub community trophies
+        run: python scripts/fetch_trophies.py
+
       - name: Commit updated art
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "chore: refresh contribution graph [skip ci]"
-          file_pattern: "data/contributions.json contrib-heatmap.svg"
+          file_pattern: "data/contributions.json contrib-heatmap.svg assets/github-trophies.svg"
